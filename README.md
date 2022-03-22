@@ -1,6 +1,3 @@
-# solana-wallet
-Check Live Demo here: http://www.solana-wallet.herokuapp.com/
-
 
 
 # Author
